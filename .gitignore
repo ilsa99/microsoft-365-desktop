@@ -1,0 +1,7 @@
+*.log
+node_modules/
+*.tgz
+.pnpm-store/
+npm-debug.log*
+.env
+_site/
